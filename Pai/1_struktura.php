@@ -19,7 +19,7 @@
         Nazwisko: $surname<br>
         <hr>
 SHOW;
-
+//echo
         $x=20;
         $y=10;
         $result = $x<=>$y;
